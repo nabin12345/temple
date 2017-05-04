@@ -29,6 +29,11 @@
                     Phone : 9849770054
                 </td>
             </tr>
+            <tr>
+            	<td>
+            		Email : nabingurung1995@gmail.com
+            	</td>
+            </tr>
         </table>
     </body>
 </html>
